@@ -1,0 +1,2 @@
+hi my name is amaan
+i am testing to how with the use of a java program uppercase letter text is converted to lowercase text in a file.
